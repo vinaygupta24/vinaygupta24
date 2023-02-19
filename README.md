@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinaygupta24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-gupta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vinaygupta24_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay-gupta" height="30" width="40" /></a>
-<a href="https://twitter.com/vinaygupta24_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinay-gupta" height="30" width="40" /></a>
 <a href="https://github.com/vinaygupta24/vinaygupta24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vinay-gupta" height="30" width="40" /></a>
+<a href="https://twitter.com/vinaygupta24_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinay-gupta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vinaygupta24_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay-gupta" height="30" width="40" /></a>
 </p>
