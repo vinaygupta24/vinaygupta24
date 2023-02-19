@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ``` var topics = [ "HTML", "Css/Sass", "Javascript", "Wordpress", "Shopify", "Bootstrap"] ```
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1ENIQMljIYP3d-66GFScqI_YqZSU7euXe/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1otJXs8VjZx4-czA2Pb5t685ZpIrwjINS/view?usp=drivesdk)
 - 📧 [Reach me out!](mailto:guptavinay0289@gmail.com)
 
 ### What can I help with:question::cyclone:
