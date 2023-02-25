@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻 I'm Vinay Gupta</h1>
 
-<h2 align="center">Full Stack Developer"</h2>
+<h2 align="center">"Full Stack Developer"</h2>
 
 <h3 align="center">git commit -m "Hello, I'm a Developer With New Idea!"</h3>
 
