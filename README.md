@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋🏻 I'm Vinay Gupta</h1>
+
+<h2 align="center">Full Stack Developer"</h2>
+
 <h3 align="center">git commit -m "Hello, I'm a Developer With New Idea!"</h3>
 
  <p align="center"><img src="https://avatars.githubusercontent.com/u/97550931?s=400&u=0e883df8d8f2d903ed1dc84216bb5095bfad08b4&v=4" width=180 Height=180 ></p>
@@ -7,7 +10,7 @@
 
 - 👨‍💻 All about me:
 
-- 💬 Ask me about ``` var topics = [ "HTML", "Css/Sass", "Javascript", "Wordpress", "Shopify", "Bootstrap"] ```
+- 💬 Ask me about ``` var topics = [ "Wordpress", "HTML", "Css", "Bootstrap", "Javascript", "jQuery", "React.js", "Node.js", "Angular.js", "React Native", "Mondgodb", "Django", "Typescript", "API", "Git & Github", "Java", "DSA",] ```
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/drive/folders/1EHy2DozX9eJq5JM8NdKHNL8P2Pr2a8uQ)
 - 📧 [Reach me out!](mailto:guptavinay0289@gmail.com)
