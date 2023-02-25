@@ -10,7 +10,7 @@
 
 - 👨‍💻 All about me:
 
-- 💬 Ask me about ``` var topics = [ "Wordpress", "HTML", "Css", "Bootstrap", "Javascript", "jQuery", "React.js", "Node.js", "Angular.js", "React Native", "Mondgodb", "Django", "Typescript", "API", "Git & Github", "Java", "DSA",] ```
+- 💬 Ask me about ``` var topics = [ "Wordpress", "HTML", "Css", "Bootstrap", "Javascript", "jQuery", "React.js", "Node.js", "Angular.js", "React Native", "Mondgodb", "Django", "Typescript", "API", "Git & Github", "Java", "DSA" ] ```
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/drive/folders/1EHy2DozX9eJq5JM8NdKHNL8P2Pr2a8uQ)
 - 📧 [Reach me out!](mailto:guptavinay0289@gmail.com)
