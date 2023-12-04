@@ -10,8 +10,7 @@
 
 - 👨‍💻 All about me: [My Website](https://vinaygupta24.github.io/Vinaygupta_Portfolio/)
 
-- 💬 Ask me about ```
-- var topics = [ "HTML" , "CSS" , "Tailwind" , "Javascript" , "Git" , "GitHub" , "Java" , "Python" , "React Js" , "Node Js" , "Express Js" , "MondgoDB" , "SQL" , "DSA" , "VSCode" , "WordPress" ] ```
+- 💬 Ask me about ``` var topics = [ "HTML" , "CSS" , "Tailwind" , "Javascript" , "Git" , "GitHub" , "Java" , "Python" , "React Js" , "Node Js" , "Express Js" , "MondgoDB" , "SQL" , "DSA" , "VSCode" , "WordPress" ] ```
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/drive/folders/1EHy2DozX9eJq5JM8NdKHNL8P2Pr2a8uQ)
 - 📧 [Reach me out!](mailto:guptavinay0289@gmail.com)
